@@ -1,3 +1,5 @@
+#Exercise7: Logica Matrici
+
 import numpy as np
 
 class TIBPALSimulator:

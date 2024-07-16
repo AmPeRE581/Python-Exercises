@@ -1,4 +1,4 @@
-#Esercizio: Calcolo della Media e della Deviazione Standard
+#Esercizio1: Calcolo della Media e della Deviazione Standard
 #Scrivi un programma in Python che faccia quanto segue:
 
 #Chieda all'utente di inserire una lista di numeri separati da spazi.
